@@ -2,7 +2,7 @@ package cursojava.executavel;
 
 public class PrimeiraClassJava {
 
-	/*Main é metodo execitavel em java de mais*/
+	/*Main é metodo execitavel em java*/
 	public static void main(String[] args) {
       
 		/*Escreve texto no console*/
